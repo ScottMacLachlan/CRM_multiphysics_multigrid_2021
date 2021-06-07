@@ -1,6 +1,7 @@
 Part of the **2021 CRM Summer School** on Solving large systems efficiently in multiphysics numerical simulations
 
 **Main Page** http://www.crm.umontreal.ca/2021/EELaval21/index_e.php
+
 **Lecture Links** https://giref.ulaval.ca/~fkwok/crm2021/
 
 ### Links to Lecture Slides

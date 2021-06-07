@@ -1,6 +1,7 @@
 Part of the **2021 CRM Summer School** on Solving large systems efficiently in multiphysics numerical simulations
 
 **Main Page** http://www.crm.umontreal.ca/2021/EELaval21/index_e.php
+**Lecture Links** https://giref.ulaval.ca/~fkwok/crm2021/
 
 ### Links to Lecture Slides
  - [Lecture 1 on MG Basics]( https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/main/lecture1-mg-basics/lecture-1-mg-basics.pdf) ([Download]( https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/raw/main/lecture1-mg-basics/lecture-1-mg-basics.pdf) )

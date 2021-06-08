@@ -7,7 +7,7 @@ Part of the **2021 CRM Summer School** on Solving large systems efficiently in m
 ### Links to Lecture Slides
  - [Lecture 1 on MG Basics]( https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/main/lecture1-mg-basics/lecture-1-mg-basics.pdf) ([Download]( https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/raw/main/lecture1-mg-basics/lecture-1-mg-basics.pdf) )
  - [Lecture 2 on MG Extensions]( https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/main/lecture2-mg-ext/lecture-2-mg-ext.pdf) ([Download]( https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/raw/main/lecture2-mg-ext/lecture-2-mg-ext.pdf) )
- - Lecture 3 on MG for Systems( https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/main/lecture3-mg-systems/lecture-2-mg-systems.pdf) ([Download]( https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/raw/main/lecture3-mg-systems/lecture-3-mg-systems.pdf) )
+ - [Lecture 3 on MG for Systems]( https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/main/lecture3-mg-systems/lecture-2-mg-systems.pdf) ([Download]( https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/raw/main/lecture3-mg-systems/lecture-3-mg-systems.pdf) )
  - [Lecture 4 on AMG Basics]( https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/main/lecture4-amg-basics/lecture-4-amg-basics.pdf) ([Download]( https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/raw/main/lecture4-amg-basics/lecture-4-amg-basics.pdf) )
 
 ### Links to notebooks in Google Colab for Lecture 1 (MG Basics)

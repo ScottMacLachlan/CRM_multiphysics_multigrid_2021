@@ -26,10 +26,10 @@ For the practical exercises, please take a look at the [Guide to the Exercises](
 - [09-multigrid-2d.ipynb]( https://colab.research.google.com/github/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/master/lecture2-mg-ext/09-multigrid-2d.ipynb)
 - [10-multigrid-anisotropy.ipynb]( https://colab.research.google.com/github/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/master/lecture2-mg-ext/10-multigrid-anisotropy.ipynb)
 - [11-multigrid-2d-line-relaxation.ipynb]( https://colab.research.google.com/github/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/master/lecture2-mg-ext/11-multigrid-2d-line-relaxation.ipynb)
-- [12-AMG-coarse-mesh.ipynb]( https://colab.research.google.com/github/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/master/lecture2-mg-ext/12-AMG-coarse-mesh.ipynb)
+- [13-rotated-anisotropy.ipynb]( https://colab.research.google.com/github/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/master/lecture4-amg-basics/13-rotated-anisotropy.ipynb)
 
 ### Links to notebooks in Google Colab for Lecture 4 (AMG Basics)
-- [13-rotated-anisotropy.ipynb]( https://colab.research.google.com/github/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/master/lecture4-amg-basics/13-rotated-anisotropy.ipynb)
+- [12-AMG-coarse-mesh.ipynb]( https://colab.research.google.com/github/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/master/lecture2-mg-ext/12-AMG-coarse-mesh.ipynb)
 - [14-anisotropy-cf-amg.ipynb]( https://colab.research.google.com/github/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/master/lecture4-amg-basics/14-anisotropy-cf-amg.ipynb)
 - [15-CF-AMG-interpolation.ipynb]( https://colab.research.google.com/github/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/master/lecture4-amg-basics/15-CF-AMG-interpolation.ipynb)
 - [16-aggregation.ipynb]( https://colab.research.google.com/github/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/master/lecture4-amg-basics/16-aggregation.ipynb)

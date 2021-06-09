@@ -10,6 +10,8 @@ Part of the **2021 CRM Summer School** on Solving large systems efficiently in m
  - [Lecture 3 on MG for Systems]( https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/main/lecture3-mg-systems/lecture-3-mg-systems.pdf) ([Download]( https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/raw/main/lecture3-mg-systems/lecture-3-mg-systems.pdf) )
  - [Lecture 4 on AMG Basics]( https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/main/lecture4-amg-basics/lecture-4-amg-basics.pdf) ([Download]( https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/raw/main/lecture4-amg-basics/lecture-4-amg-basics.pdf) )
 
+For the practical exercises, please take a look at the [Guide to the Exercises]( https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/main/notebook_guide.pdf) ([Download](https://github.com/ScottMacLachlan/CRM_multiphysics_multigrid_2021/raw/main/notebook_guide.pdf))
+
 ### Links to notebooks in Google Colab for Lecture 1 (MG Basics)
 - [01-model-problem.ipynb]( https://colab.research.google.com/github/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/master/lecture1-mg-basics/01-model-problem.ipynb)
 - [02-relaxation-Jacobi.ipynb]( https://colab.research.google.com/github/ScottMacLachlan/CRM_multiphysics_multigrid_2021/blob/master/lecture1-mg-basics/02-relaxation-Jacobi.ipynb)
